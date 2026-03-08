@@ -23,12 +23,6 @@ It helps manage donor and recipient records and keeps track of available blood s
 * Structures and Arrays
 * File Handling
 
-## How to Run
-
-1. Compile the program using a C compiler.
-2. Run the main program file.
-3. Use the menu to perform different operations.
-
 ## Files Used
 
 * donors.txt – stores donor data
